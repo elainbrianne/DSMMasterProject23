@@ -1,6 +1,6 @@
 # A Differential Machine Learning Approach for Calculating Deltas under the Heston Model
 
-Project by: Elain Balderas, Nina McClure, Akash Yadav
+Project by: Elain Balderas, Nina McClure, Akash Yadav 
 
 ## Abstract 
 
@@ -13,3 +13,5 @@ a) Lui, S., Oosterlle, C. W. and Bohte, S. M. Pricing Options and Computing Impl
 b) Ruf, J. and Wang., W. Neural networks for option pricing and hedging: a literature review, Journal of Computational Finance, 2020
 
 c) Huge, V and Savine, A. Differential Machine learning, Risk, 2021
+
+_This repository is part of a master project submitted to fulfill the requirements of the Master of Program in Data Science Methodology at the Barcelona School of Economics._
