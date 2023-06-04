@@ -8,7 +8,7 @@ This project introduces a novel technique called "differential machine learning"
 
 ## Previous work
 
-a) Lui, S., Oosterlle, C. W. and Bohte, S. M. Pricing Options and Computing Implied Volatilities Using Neural Networks, risks, 2019
+a) Lui, S., Oosterlle, C. W. and Bohte, S. M. Pricing Options and Computing Implied Volatilities Using Neural Networks, Risk, 2019
 
 b) Ruf, J. and Wang., W. Neural networks for option pricing and hedging: a literature review, Journal of Computational Finance, 2020
 
